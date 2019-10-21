@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JewellStore", "JewellStore\JewellStore.csproj", "{D9082204-2231-40D7-8CD1-C434D264949E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9082204-2231-40D7-8CD1-C434D264949E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9082204-2231-40D7-8CD1-C434D264949E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9082204-2231-40D7-8CD1-C434D264949E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9082204-2231-40D7-8CD1-C434D264949E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D14EB7FA-374A-43B1-8026-3D9D622B0504}
+	EndGlobalSection
+EndGlobal
